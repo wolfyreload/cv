@@ -79,7 +79,6 @@ The source code for OpenChords is publicly available and can be accessed through
 as [SourceForge](https://sourceforge.net/projects/openchords/) and [GitHub](https://github.com/wolfyreload/OpenChords).
 
 - **_Technologies used:_** C#, HTML, CSS, Eto.Forms
-
 <br><br>
 
 **OpenChords Online** _(Feb 2021 - Present)_ <br>
@@ -89,7 +88,6 @@ songbooks from any location and device. This cloud-based service also facilitate
 audience, in addition to the previously mentioned benefits.
 
 - **_Technologies used:_** C#, Angular, HTML, CSS, Microsoft Azure
-
 <br><br>
 
 **TimeTracker** _(Oct 2022 - Present)_ <br>
