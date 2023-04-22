@@ -108,4 +108,4 @@ dedicate to various projects and tasks.
 
 ## Education
 
-* **Bsc Information Technology** - University of Johannesburg, 2006-2009 - Distinction in Computer Science
+**Bsc Information Technology** - University of Johannesburg, 2006-2009 - Distinction in Computer Science
