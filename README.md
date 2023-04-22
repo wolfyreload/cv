@@ -96,6 +96,8 @@ TimeTracker is automatic time tracking software that monitors application usage 
 user focuses on a particular window with screenshots. This recorded data enables users to efficiently tag, track and manage the time they
 dedicate to various projects and tasks.
 
+- **_Technologies used:_** C#, Angular, HTML, CSS, SQLite
+
 ## Languages
 
 **English**: Native 
