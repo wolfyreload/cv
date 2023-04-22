@@ -26,7 +26,7 @@ I am committed to actively mentoring and assisting developers at all levels, inc
 senior team members. By providing guidance and support, I aim to enable them to complete their tasks successfully and
 contribute to the development of skills within EnterpriseWorx.
 
-- **_Technologies used:_** TypeScript, Angular, HTML, CSS, C#, Dapper, Entity Framework, ASP.NET Web API, Swagger,
+**_Technologies used:_** TypeScript, Angular, HTML, CSS, C#, Dapper, Entity Framework, ASP.NET Web API, Swagger,
   Docker,
   Microsoft SQL Server, PostgreSQL, MySQL
   <br><br>
@@ -37,7 +37,7 @@ As a lead developer at EnterpriseWorx, I was responsible for overseeing the deve
 product. In addition, I played a key role in creating a submodule of Conductor4SQL called SQLPro, which focused on
 extending the monitoring capabilities of Conductor4SQL.
 
-- **_Technologies used:_** TypeScript, Angular, HTML, CSS, C#, Dapper, Entity Framework, DevExpress,
+**_Technologies used:_** TypeScript, Angular, HTML, CSS, C#, Dapper, Entity Framework, DevExpress,
   Microsoft SQL Server, ASP.NET Web API, Swagger,
   <br><br>
 
@@ -47,7 +47,7 @@ As a professional software developer, my responsibilities included both the deve
 Conductor4SQL, a flagship product of EnterpriseWorx. Conductor4SQL is a sophisticated tool designed to facilitate data
 synchronization between MS SQL servers, particularly over suboptimal network conditions.
 
-- **_Technologies used:_** C#, .NET WinForms, Entity Framework, LINQ, Microsoft SQL Server
+**_Technologies used:_** C#, .NET WinForms, Entity Framework, LINQ, Microsoft SQL Server
   <br><br>
 
 **Junior .NET Developer** @ [EnterpriseWorx](https://www.ewx.co.za/) _(Feb 2011 - Sep 2013)_ <br>
@@ -55,7 +55,7 @@ synchronization between MS SQL servers, particularly over suboptimal network con
 In my professional capacity, I contributed my expertise as an ASP.NET developer to Membaz, a cloud-based member
 management system with a strong focus on community-oriented features.
 
-- **_Technologies used:_** C#, ASP.NET, LINQ, Microsoft SQL Server
+**_Technologies used:_** C#, ASP.NET, LINQ, Microsoft SQL Server
 
 ## Technical Writing Experience
 
@@ -78,7 +78,7 @@ OpenChords has received the Community Choice award on SourceForge and has been d
 The source code for OpenChords is publicly available and can be accessed through reputable platforms such
 as [SourceForge](https://sourceforge.net/projects/openchords/) and [GitHub](https://github.com/wolfyreload/OpenChords).
 
-- **_Technologies used:_** C#, HTML, CSS, Eto.Forms
+**_Technologies used:_** C#, HTML, CSS, Eto.Forms
 <br><br>
 
 **OpenChords Online** _(Feb 2021 - Present)_ <br>
@@ -87,7 +87,7 @@ OpenChords Online extends the advantages of OpenChords to the cloud, enabling li
 songbooks from any location and device. This cloud-based service also facilitates the projection of lyrics to the
 audience, in addition to the previously mentioned benefits.
 
-- **_Technologies used:_** C#, Angular, HTML, CSS, Microsoft Azure
+**_Technologies used:_** C#, Angular, HTML, CSS, Microsoft Azure
 <br><br>
 
 **TimeTracker** _(Oct 2022 - Present)_ <br>
@@ -96,7 +96,7 @@ TimeTracker is automatic time tracking software that monitors application usage 
 user focuses on a particular window with screenshots. This recorded data enables users to efficiently tag, track and manage the time they
 dedicate to various projects and tasks.
 
-- **_Technologies used:_** C#, Angular, HTML, CSS, SQLite
+**_Technologies used:_** C#, Angular, HTML, CSS, SQLite
 
 ## Languages
 
