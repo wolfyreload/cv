@@ -21,9 +21,7 @@ As a lead developer at EnterpriseWorx, I am responsible for the development and 
 Conductor4SQL. Additionally, I play a pivotal role in the development of SQLPro, a subcomponent of Conductor4SQL that
 aims to enhance the monitoring capabilities of Conductor4SQL to include MySQL, PostgreSQL, and SQL Azure databases.
 
-Another key responsibility of mine is to ensure that our support documentation for various products and projects is
-continuously updated to streamline the support of different systems. By keeping the documentation current, I can
-simplify the support process and ensure swift and effective resolutions to any issues.
+As part of my responsibilities, I am accountable for constructing robust systems from inception, ensuring optimal selection and implementation of cutting-edge technologies, and adhering to industry best practices.
 
 Furthermore, I am dedicated to actively mentoring and providing assistance to developers across all levels, including
 junior, intermediate, and senior team members. Through guidance and support, I strive to enable them to successfully
