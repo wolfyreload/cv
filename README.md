@@ -71,8 +71,8 @@ name [Mike's Tech Tips](https://medium.com/@mikes-tech-tips)
 **OpenChords** _(Jan 2011 - Present)_ <br>
 
 OpenChords offers an innovative solution to the conventional practice of utilizing printed chord songbooks. It provides
-a hassle-free way to store and access your music, eliminating the need for manual filing after practices or gigs.
-Moreover, with its user-friendly interface, locating songs is made easy, even when you cannot recall the title.
+a hassle-free way to store and access your music sheets, eliminating the need for manual filing after practices or gigs.
+Moreover, with its user-friendly interface, locating songs is made easy, even when you cannot recall the title of the song.
 Additionally, OpenChords enables live performers to modify the key of a song seamlessly, providing greater flexibility
 during performances.
 
